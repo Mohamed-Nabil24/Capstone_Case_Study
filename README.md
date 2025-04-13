@@ -1,7 +1,7 @@
 # Cyclistic Customer Segmentation Analysis 🚲
 
 ## Objective:
-- I am a junior data analyst working on the marketing analyst team at Cyclistic, a fictional bike-share
+- I am a junior data analyst working on the marketing analysis team at Cyclistic, a fictional bike-share
 company in Chicago.
 - The director of marketing believes the company’s future success
 depends on maximizing the number of annual memberships.
