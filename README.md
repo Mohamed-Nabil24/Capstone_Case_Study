@@ -73,8 +73,9 @@ merged_df.to_csv(output_file, index = False)
   - Casual riders converting to annual memberships in Q3
 
   - Incentivizing the casual riders using their own behavior, which is riding more frequently on weekends, to convert to annual memberships would see a possible 13% increase in weekend rides made by annual members.
-
 ---
-### Link to Canva Presentation : [View Canva Presentation](https://www.canva.com/design/DAGj-utIxW4/U42SXYctFp48TjZfveaIrw/edit?utm_content=DAGj-utIxW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## Report | [Click Here To View Report](https://www.canva.com/design/DAGj-utIxW4/U42SXYctFp48TjZfveaIrw/edit?utm_content=DAGj-utIxW4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- This report/presentation serves as a final documentation emphasizing key points and analyses. It acts as the final product that would be presented to the marketing team/stakeholders.
+  
 ### Layout Inspired by :  [How to Document Data Analysis Project by Her Data Project](https://youtu.be/0N9xekdKCwk?feature=shared)
 
